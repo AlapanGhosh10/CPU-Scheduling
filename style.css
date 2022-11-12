@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+}
+.myclass{
+    background-image: url("top2.jpeg");
+    height: 720px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    padding-top: 50px;
+    padding-left: 7%;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: white;
+    font-size: 56px;
+}
+#info{
+    list-style-type: none;
+    color: white;
+    font-size: 44px;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+footer{
+    height: 232px;
+    background: rgb(172, 198, 199);
+    text-align: center;
+}
+footer ul{
+    list-style-type: none;
+    padding: 20px;
+    overflow: hidden;
+    color: black;
+
+}
+footer li {
+    border-radius: 30px;
+    border: 3px solid rgb(29, 98, 151);
+    font-size: 20px;
+    display: inline;
+    margin: 30px;
+    padding: 10px;
+}
+footer li:hover{
+    background-color: rgba(0, 255, 255, 0.2);
+    
+}
